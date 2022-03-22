@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GorgeousBug
 - 👀 I’m interested in QA
 - 🌱 I’m currently learning API,SQL,Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 
 <!---
