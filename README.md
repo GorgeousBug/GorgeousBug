@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GorgeousBug
 - 👀 I’m interested in QA
-- 🌱 I’m currently learning API,SQL,Python
-- 📫 How to reach me ... 
+- 🌱 I’m currently learning GitBash, JavaScript, API, SQL, Python
+- 📫 How to reach me https://t.me/Liliana_Ladik
 
 <!---
 GorgeousBug/GorgeousBug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
